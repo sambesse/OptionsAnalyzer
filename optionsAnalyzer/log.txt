@@ -1,0 +1,4 @@
+hist req for AAL: 200
+tossed AAL for price history too short
+runtime: 1191
+requests made: 1

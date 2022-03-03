@@ -1,0 +1,2 @@
+price history less than 130 days for AAL
+1 errors reported.
